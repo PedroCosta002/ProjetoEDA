@@ -1,0 +1,3 @@
+C:/Users/Pedro Costa/ProjetoEDA/cmake-build-debug/CMakeFiles/ProjetoEDA.dir
+C:/Users/Pedro Costa/ProjetoEDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Pedro Costa/ProjetoEDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
